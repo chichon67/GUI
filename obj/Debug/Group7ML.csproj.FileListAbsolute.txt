@@ -1,0 +1,10 @@
+C:\Users\marca\source\repos\ML\grp07\programm\Group7ML\Group7ML\bin\Debug\Group7ML.exe.config
+C:\Users\marca\source\repos\ML\grp07\programm\Group7ML\Group7ML\bin\Debug\Group7ML.exe
+C:\Users\marca\source\repos\ML\grp07\programm\Group7ML\Group7ML\bin\Debug\Group7ML.pdb
+C:\Users\marca\source\repos\ML\grp07\programm\Group7ML\Group7ML\obj\Debug\Group7ML.csprojAssemblyReference.cache
+C:\Users\marca\source\repos\ML\grp07\programm\Group7ML\Group7ML\obj\Debug\Group7ML.Properties.Resources.resources
+C:\Users\marca\source\repos\ML\grp07\programm\Group7ML\Group7ML\obj\Debug\Group7ML.csproj.GenerateResource.cache
+C:\Users\marca\source\repos\ML\grp07\programm\Group7ML\Group7ML\obj\Debug\Group7ML.csproj.CoreCompileInputs.cache
+C:\Users\marca\source\repos\ML\grp07\programm\Group7ML\Group7ML\obj\Debug\Group7ML.exe
+C:\Users\marca\source\repos\ML\grp07\programm\Group7ML\Group7ML\obj\Debug\Group7ML.pdb
+C:\Users\marca\source\repos\ML\grp07\programm\Group7ML\Group7ML\obj\Debug\Group7ML.Form1.resources
